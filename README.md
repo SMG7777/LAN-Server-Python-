@@ -2,11 +2,11 @@
 # 服务器想法
 我记得以前在学校上信息课的时候，老师的服务器文件传输大小有限制，于是，我突发奇想，既然这样，那我就造一个服务器，来方便信息教室文件传输
 # 使用的模块
-==**Flask**==
+__**Flask**__
 ## 安装方式
-**==pip install flask==**
+**__pip install flask__**
 # 功能实现的重要函数
-==**send_file()**==
+__**send_file()**__
 # 代码（好了，不多说了，上代码）
 ```python
 from flask import Flask,send_file
