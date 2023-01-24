@@ -1,1 +1,1 @@
-# smg_python
+# LAN-Server-Python
